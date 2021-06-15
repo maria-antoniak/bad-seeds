@@ -4,6 +4,8 @@ ACL 2021
 
 This repository contains the seed lexicons gathered and evaluated in the above research paper.
 
+You can view all the gathered seeds by clicking on the `gathered_seeds.json` file above.
+
 You can load the seeds into a Pandas dataframe using the following Python snippet:
 
 ```
