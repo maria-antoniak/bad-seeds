@@ -1215,22 +1215,13 @@
     "Seeds ID":"final_identities-Joseph_et_al_2017"
   },
   {
-    "Category":"verb senses 1",
+    "Category":"verb senses",
     "Seeds":"[]",
     "Source \/ Justification":null,
     "Source Categories":null,
     "Used in Paper":"Unsupervised Discovery of Gendered Language through Latent-Variable Modeling (Hoyle et al., 2019)",
     "Link":null,
-    "Seeds ID":"verb_senses_1-Hoyle_et_al_2019"
-  },
-  {
-    "Category":"verb senses 2",
-    "Seeds":"[]",
-    "Source \/ Justification":null,
-    "Source Categories":null,
-    "Used in Paper":"Unsupervised Discovery of Gendered Language through Latent-Variable Modeling (Hoyle et al., 2019)",
-    "Link":null,
-    "Seeds ID":"verb_senses_2-Hoyle_et_al_2019"
+    "Seeds ID":"verb_senses-Hoyle_et_al_2019"
   },
   {
     "Category":"male singular",
