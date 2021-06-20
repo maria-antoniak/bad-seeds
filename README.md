@@ -13,8 +13,8 @@ import pandas as pd
 seeds_df = pd.read_json(json_path, orient='records')
 ```
 
-When using these seeds, make sure to cite the original papers and give credit to the authors who curated the seed sets. Citations are given for each set in the JSON file.
-
 If the seed list is empty, this means that we were unable to find a documented seed list for that category and paper.
+
+**Note:**: When using these seeds, make sure to cite the original papers and give credit to the authors who curated the seed sets. Citations are given for each set in the JSON file. We've included the bibtex for each paper in `gathered_seeds.bib`.
 
 If you'd like to add new seed sets or improve the documentation for this project, please submit a pull request or contact Maria Antoniak.
