@@ -1,10 +1,16 @@
-## Bad Seeds: Evaluating Lexical Methods for Bias Measurement
+# Bad Seeds: Evaluating Lexical Methods for Bias Measurement
+
+## Paper
+
+This repository contains the seed lexicons gathered and evaluated in the below research paper.
 
 [**Bad Seeds: Evaluating Lexical Methods for Bias Measurement**](https://maria-antoniak.github.io/resources/2021_acl_bad_seeds.pdf)  
 Maria Antoniak and David Mimno  
 ACL 2021
 
-This repository contains the seed lexicons gathered and evaluated in the above research paper.
+**Note:** When using these seeds, make sure to cite the original papers and give credit to the authors who curated the seed sets. Paper titles and authors are given for each set in the JSON file, and we've included the bibtex for each paper in `gathered_seeds.bib`.
+
+## Data
 
 You can view all the gathered seeds by clicking on the `gathered_seeds.json` file above. Or you can scroll down to see the seeds in plain markdown.
 
@@ -16,8 +22,6 @@ seeds_df = pd.read_json(json_path, orient='records')
 ```
 
 If the seed list is empty, this means that we were unable to find a documented seed list for that category and paper.
-
-**Note:** When using these seeds, make sure to cite the original papers and give credit to the authors who curated the seed sets. Paper titles and authors are given for each set in the JSON file, and we've included the bibtex for each paper in `gathered_seeds.bib`.
 
 If you'd like to add new seed sets or improve the documentation for this project, please submit a pull request or contact Maria Antoniak.
 
