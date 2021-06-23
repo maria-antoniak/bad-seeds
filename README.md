@@ -10,7 +10,7 @@ ACL 2021
 
 **Note:** When using these seeds, make sure to cite the original papers and give credit to the authors who curated the seed sets. Paper titles and authors are given for each set in the JSON file, and we've included the bibtex for each paper in `gathered_seeds.bib`.
 
-<br><br>
+<br>
 
 ## Data
 
@@ -27,7 +27,7 @@ If the seed list is empty, this means that we were unable to find a documented s
 
 If you'd like to add new seed sets or improve the documentation for this project, please submit a pull request or contact Maria Antoniak.
 
-<br><br>
+<br>
 
 ## Seed Sets
 
