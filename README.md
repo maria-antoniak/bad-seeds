@@ -1,12 +1,8 @@
-# Bad Seeds: Evaluating Lexical Methods for Bias Measurement
-
-## Paper
+## Bad Seeds: Evaluating Lexical Methods for Bias Measurement
 
 [**Bad Seeds: Evaluating Lexical Methods for Bias Measurement**](https://maria-antoniak.github.io/resources/2021_acl_bad_seeds.pdf)  
 Maria Antoniak and David Mimno  
 ACL 2021
-
-## Documentation
 
 This repository contains the seed lexicons gathered and evaluated in the above research paper.
 
