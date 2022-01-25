@@ -274,7 +274,7 @@ If you'd like to add new seed sets or improve the documentation for this project
 **Used in Paper:** Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings (Bolukbasi et al., 2016)  
 **Source Categories:** curated  
 **Link:** [https://github.com/tolga-b/debiaswe](https://github.com/tolga-b/debiaswe)  
-**Seeds:** [woman, girl, she, mother, daugher, gal, female, her, herself, Mary]
+**Seeds:** [woman, girl, she, mother, daughter, gal, female, her, herself, Mary]
 
 **Seeds ID:** definitional_male-Bolukbasi_et_al_2016  
 **Category:** definitional male   

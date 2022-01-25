@@ -307,7 +307,7 @@
   },
   {
     "Category":"definitional female",
-    "Seeds":"['woman', 'girl', 'she', 'mother', 'daugher', 'gal', 'female', 'her', 'herself', 'Mary']",
+    "Seeds":"['woman', 'girl', 'she', 'mother', 'daughter', 'gal', 'female', 'her', 'herself', 'Mary']",
     "Source \/ Justification":null,
     "Source Categories":"curated",
     "Used in Paper":"Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings (Bolukbasi et al., 2016)",
